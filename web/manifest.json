@@ -1,6 +1,6 @@
 {
-    "name": "first",
-    "short_name": "first",
+    "name": "budget_tracker",
+    "short_name": "budget_tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
